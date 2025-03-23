@@ -1,6 +1,6 @@
 import asyncio
 
-import engineio_worstMev
+import engineio_worstMev as engineio
 
 from . import async_manager
 from . import base_server
