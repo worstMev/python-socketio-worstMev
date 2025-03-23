@@ -1,5 +1,5 @@
 [project]
-name = "python-socketio"
+name = "python_socket_io_worstMev"
 version = "5.12.2.dev0"
 authors = [
     { name = "Miguel Grinberg", email = "miguel.grinberg@gmail.com" },
